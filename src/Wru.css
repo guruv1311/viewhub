@@ -1,0 +1,40 @@
+.vendor
+{
+    background-color: rgb(201, 208, 215);
+    height:200px;
+    width:500px;
+    border-radius:20px;
+    border: none;
+}
+.venimg
+{
+   height:100px;
+    width:90px;
+    background-image: url("https://image.shutterstock.com/image-vector/user-icon-260nw-523867123.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -15px;
+}
+.user
+{
+    background-color: rgb(201, 208, 215);
+    height: 200px;
+    width:500px;
+    margin-top: 100px;
+    border-radius:20px;
+    border: none;
+}
+.userimg
+{
+    height:100px;
+    width:90px;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/3914/3914775.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -15px;
+}
+.Wru1
+{
+    height: 100vh;
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2021/10/material-minimal-shape-4k_1634163652-2048x1152.jpg");
+}

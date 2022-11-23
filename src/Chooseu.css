@@ -1,0 +1,119 @@
+.foodba
+{
+    height:200px;
+    width:500px;
+    background-color: rgb(244, 244, 244);
+    margin-left: 200px;
+    margin-top: 10px;
+    border-radius: 30px;
+    float:left;
+}
+.fooda{
+    height:100px;
+    width: 130px;
+    background-image: url("https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-112.jpg");
+    background-size: cover;
+    margin-top: 40px;
+}
+.clothingba
+{
+    height:200px;
+    width:500px;
+    background-color: rgb(244, 244, 244);
+    margin-left: 500px;
+    margin-right:160px;
+    margin-top: -200px;
+    border-radius:30px;
+    float:right;
+}
+.clothinga{
+    height:100px;
+    width: 130px;
+    background-image: url("https://cdn.pixabay.com/photo/2018/10/11/13/37/clothing-3739798__340.jpg");
+    background-size: cover;
+    margin-top: 40px;
+
+}
+.groceriesba
+{
+    height:200px;
+    width:500px;
+    background-color:rgb(244, 244, 244);
+    margin-left: 200px;
+    margin-top: 20px;
+    border-radius:30px;
+    float:left;
+}
+.groceriesa{
+    height:100px;
+    width: 130px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+    margin-top: 40px;
+
+}
+.fvba
+{
+    height:200px;
+    width:500px;
+    background-color: rgb(244, 244, 244);
+    margin-left: 300px;
+    margin-top: -200px;
+    margin-right: 160px;
+    border-radius:30px;
+    float:right;
+}
+.fva{
+    height:100px;
+    width: 130px;
+    background-image: url("https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/643188-gettyimages-153946385-ca1ccfaad9be44325afc434b305adc0d.jpg");
+    background-size: cover;
+    margin-top: 40px;
+
+}
+.footba
+{
+    height:200px;
+    width:500px;
+    background-color:rgb(244, 244, 244);
+    margin-left: 200px;
+    margin-top: 20px;
+    border-radius:30px;
+    float:left;
+}
+.foota{
+    height:100px;
+    width: 130px;
+    background-image: url("https://threadcurve.com/wp-content/uploads/2020/06/footwear-june272020.jpg");
+    background-size: cover;
+    margin-top: 40px;
+}
+.accessba
+{
+    height:200px;
+    width:500px;
+    background-color:rgb(244, 244, 244);
+    margin-left: 300px;
+    margin-top: -200px;
+    margin-right: 160px;
+    border-radius:30px;
+    float:right;
+}
+.accessa{
+    height:100px;
+    width: 130px;
+    background-image: url("https://www.balajisolutions.in/images/resource/mobility.jpg");
+    background-size: cover;
+    margin-top: 40px;
+
+}
+.body1a{
+    background-size: cover;
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2021/10/material-minimal-shape-4k_1634163652-2048x1152.jpg");
+    height:100vh;
+    margin-top: -22px;
+}
+.headcha
+{
+    color:rgb(251, 249, 255);
+}

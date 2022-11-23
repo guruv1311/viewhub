@@ -1,0 +1,17 @@
+.mac-book-air-1 {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    background-color:rgb(18, 41, 73);
+  }
+  .Gife
+  {
+    background-image: url("file:///C:/Users/91737/Downloads/VIEW%20HUB%20(3).gif");
+    height: 500px;
+    width: 500px;
+  }
+  button
+  {
+    
+    padding: 30px 62px;
+  }

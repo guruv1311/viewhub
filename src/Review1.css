@@ -1,0 +1,144 @@
+
+.comments
+{
+    height:700px;
+    width:500px;
+    background-color: aqua;
+    margin-left: 20px;
+    margin-top: 40px;
+    float:left;
+}
+.com1s
+{
+    margin-left: -20px;
+}
+.revsubmits
+{
+    height:30px;
+    width:150px;
+    background-color: rgb(232, 236, 236);
+    margin-left: 170px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.revsubmitwris
+{
+    padding-left: 8px;
+    padding-bottom: -10px;
+}
+.pubreviews
+{
+    height:700px;
+    width:1012px;
+ 
+    float:right;   
+    margin-top: 40px; 
+}
+.pubrevstrs
+{
+    height:35px;
+    width:300px;
+    margin-left: 410px;
+}
+.pubrevrats
+{
+    margin-left: 20px;
+    margin-top: -15px;
+    float:left;
+}
+.prstr1s
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: -120px;
+}
+.prstr2s
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: 5px;
+}
+.prstr3s
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: 5px;
+}
+.prstr4s
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: 5px;
+}
+.pubcommentss
+{
+    height:500px;
+    width:800px;
+
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.pubcom1s
+{
+    height:100px;
+    width:300px;
+    background-color: aqua;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom2s
+{
+    height:100px;
+    width:300px;
+    background-color: aqua;
+    margin-top: -100px;
+    margin-right: 50px;
+    float:right;
+}
+.pubcom3s
+{
+    height:100px;
+    width:300px;
+    background-color: aqua;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom4s
+{
+    height:100px;
+    width:300px;
+    background-color: aqua;
+    margin-top: -100px;
+    margin-right: 50px;
+    float:right;
+}
+.pubcom5s
+{
+    height:100px;
+    width:300px;
+    background-color: aqua;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom6s
+{
+    height:100px;
+    width:300px;
+ background-color: aqua;
+    margin-top: -100px;
+    margin-right: 50px;
+    float:right;
+}
+.aaaa
+{
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2021/10/material-minimal-shape-4k_1634163652-2048x1152.jpg.webp");
+    height: 100vh;
+}

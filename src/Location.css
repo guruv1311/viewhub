@@ -1,0 +1,37 @@
+.loa1
+{
+    font-size: 20px;
+}
+.body
+{
+    height: 100vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpPZ8inGpUZ-QHoUXJUOLDAPdDgN5T44TGuEG1m1ISLv6_ttxJ-d4RfJVZKeJ8aarVVA&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: space-evenly;
+    align-items: stretch;
+
+}
+.image-1
+{
+    margin-left: 620px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/1865/1865269.png");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+}
+input[type="text"]
+{
+    border-radius: 0.5em white;
+    font-size: 25px;
+    padding: 0.5em;
+}
+button
+{
+    font-size: 27px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+}

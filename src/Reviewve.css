@@ -1,0 +1,163 @@
+
+
+.comment
+{
+    height:940px;
+    width:430px;
+
+    margin-left: 20px;
+    margin-top: 10px;
+    background-image: url("https://dornsife.usc.edu/assets/img/news/story/3047.jpg");
+    background-size: cover;
+    float:left;
+}
+.com1
+{
+    margin-left: -20px;
+}
+.revsubmit
+{
+    height:60px;
+    width:150px;
+    margin-left: 170px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.revsubmitwri
+{
+    padding-left: 8px;
+    padding-top: -5px;
+}
+.pubreview
+{
+    height: 940px;
+    width: 1050px;
+
+    float:right;   
+    margin-top: 10px; 
+    margin-right: 1px;
+}
+.pubrevstr
+{
+    height:35px;
+    width:300px;
+    margin-left: 410px;
+}
+.pubrevrat
+{
+    margin-left: 20px;
+    margin-top: -15px;
+    float:left;
+}
+.prstr1
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: -120px;
+}
+.prstr2
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: 5px;
+}
+.prstr3
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: 5px;
+}
+.prstr4
+{
+    height:30px;
+    width:30px;
+    background-image: url("https://p.kindpng.com/picc/s/135-1353186_portable-network-graphics-computer-icons-vector-graphics-transparent.png");
+    background-size: cover;
+    margin-left: 5px;
+}
+.pubcomments
+{
+    height:770px;
+    width:950px;
+
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.pubcom1
+{
+    height:200px;
+    width:400px;
+
+    background-color:aqua;
+    margin-left:50px; 
+    font-size: 30px;
+    margin-top: 50px;
+}
+.pubcom2
+{
+    height:200px;
+    width:400px;
+
+    background-color: aqua;
+    margin-top:-200px;
+    margin-right: 50px;
+    font-size: 30px;
+    float:right;
+}
+.pubcom3
+{
+    height:200px;
+    width:400px;
+
+    background-color: aqua;
+    font-size: 30px;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom4
+{
+    height:200px;
+    width:400px;
+
+    background-color: aqua;
+    font-size: 30px;
+    margin-top: -200px;
+    margin-right: 50px;
+    float:right;
+}
+.pubcom5
+{
+    height:200px;
+    width:400px;
+
+    background-color: aqua;
+    font-size: 30px;
+    margin-left:50px; 
+    margin-top: 50px;
+}
+.pubcom6
+{
+    height:200px;
+    width:400px;
+
+    background-color: aqua;
+    font-size: 30px;
+    margin-top: -200px;
+    margin-right: 50px;
+    float:right;
+}
+.pubrev{
+      margin-left: -50px;
+}
+.bi1
+{
+    height:140vh;
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2021/10/material-minimal-shape-4k_1634163652-2048x1152.jpg");
+    background-size: cover;
+}
